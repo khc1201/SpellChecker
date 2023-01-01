@@ -1,0 +1,17 @@
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.AssemblyReference.cache
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.MainForm.resources
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.Properties.Resources.resources
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.GenerateResource.cache
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\SpellChecker.exe.config
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\SpellChecker.exe
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\SpellChecker.pdb
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\WebDriver.dll
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\bin\Debug\WebDriver.Support.dll
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.CopyComplete
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.exe
+C:\Users\5902j\OneDrive\바탕 화면\DOA\App\SpellChecker\SpellChecker\obj\Debug\SpellChecker.pdb
